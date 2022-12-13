@@ -3,6 +3,7 @@ package javabasics;
 public class ExecutionOrder {
 
     //fields and blocks running first
+    //last is the constructor
     private String name = "Fluffy";
 
     {
